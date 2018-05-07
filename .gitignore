@@ -1,0 +1,10 @@
+
+.vs/Project_Gradu/v14/.suo
+*.suo
+*.sln
+*.meta
+*.apk
+*.csproj
+*.obj
+
+Library/
