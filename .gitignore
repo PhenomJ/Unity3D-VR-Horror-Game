@@ -6,5 +6,5 @@
 *.apk
 *.csproj
 *.obj
-
+*.unitypackage
 Library/
